@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>SampleApplication</Name>
+		<Publisher>Test</Publisher>
+		<Assembly>SampleApplication.dll</Assembly>
+		<AddInId>CDBE63BD-5FFE-4CF6-9634-D4EDDF5A48DC</AddInId>
+		<FullClassName>SampleApplication.App</FullClassName>
+		<Text>Demo</Text>
+		<Description>Sample</Description>
+		<VendorId>Dany BIM</VendorId>
+		<VendorDescription>Danail Momchilov</VendorDescription>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+	</AddIn>
+</RevitAddIns>
